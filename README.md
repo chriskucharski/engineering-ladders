@@ -8,6 +8,7 @@ A collection of engineering ladders for reference and inspiration.
 - [Chartbeat](http://engineering.chartbeat.com/2015/06/05/engineering-ladders/)
 - [CircleCI](https://circleci.com/blog/why-we-re-designed-our-engineering-career-paths-at-circleci/)
 - [Envoy](https://github.com/envoy/Engineering/blob/master/engineering_bands.md)
+- [Etsy](https://etsy.github.io/Etsy-Engineering-Career-Ladder/)
 - [Glossier](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Fog Creek](https://www.joelonsoftware.com/2009/02/13/fog-creek-professional-ladder/)
 - [Kickstarter](https://gist.github.com/jamtur01/aef437a79fee5a9cefdc)
